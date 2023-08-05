@@ -7,6 +7,8 @@ public class BaseballData {
 
 // here are some changes made on the remote repository~~~~
 	//hahaha
+
+	//HERE's some bonus changes remotely that should cause a merge conflict
 	public BaseballData() {
 		crows.teamName = "Crows";
 		crows.managerName = "Sartino";
