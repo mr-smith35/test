@@ -8,20 +8,20 @@ public class BaseballData {
 
 	public BaseballData() {
 		crows.teamName = "Crows";
-		crows.managerName = "Sartino";
+		crows.managerName = "Sartino";   // is a crazy man
 		
-		crows.hitters[0] = new Hitter("Tree Taco",200, 100, 330, 300);
-		crows.hitters[1] = new Hitter("Joshua",300, 225, 440, 770);
-		crows.hitters[2] = new Hitter("Kathrin",400, 150, 280, 320);
+		crows.hitters[0] = new Hitter("Tree Taco",9999, 9999, 330, 400);
+		crows.hitters[1] = new Hitter("Joshua",9999, 9999, 9999, 9999);
+		crows.hitters[2] = new Hitter("Kathrin",9999, 9999, 280, 320);
 
-		crows.hitters[3] = new Hitter("Hot",320, 175, 370, 300);
+		crows.hitters[3] = new Hitter("Hot",9999, 9999, 370, 300);
 
-		crows.hitters[4] = new Hitter("Yariv",200, 190, 400, 520);
-		crows.hitters[5] = new Hitter("Higo", 240, 160, 310, 220);
+		crows.hitters[4] = new Hitter("Yariv",9999, 9999, 400, 520);
+		crows.hitters[5] = new Hitter("Higo", 9999, 9999, 310, 220);
 		
 		crows.hitters[6] = new Hitter("Abandance",100, 100, 310, 190);
 		crows.hitters[7] = new Hitter("Clover",200, 175, 330, 200);
-		crows.hitters[8] = new Hitter("Zachary",240, 170, 400, 510);
+		crows.hitters[8] = new Hitter("Zachary",9999, 9999, 9999, 9999);
 
 		crows.pitchers[0] = new Pitcher("Joshua", 89, 85, 70 );
 		crows.pitchers[1] = new Pitcher("Yariv", 50, 70, 50 );
