@@ -7,10 +7,10 @@ public class BaseballData {
 
 // here are some changes made on the remote repository~~~~
 	//hahaha
-
-
 	// And yet HERE are some changes locally.  What happens when I push to remote 'origin'
 	// which has changed in the meantime
+	//HERE's some bonus changes remotely that should cause a merge conflict
+	// ** I manually merged so now I can add, commit, push
 	public BaseballData() {
 		crows.teamName = "Crows";
 		crows.managerName = "Sartino";
